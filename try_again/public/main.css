@@ -1,0 +1,20 @@
+.brand-logo {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.nav-items {
+  display: flex;
+  
+  margin-right: 20px;
+}
+
+.nav-wrapper {
+  color: darkblue;
+  width: 100%;
+}
+
+.nav-clas {
+  color: darkblue;
+  width: 100%;
+}
